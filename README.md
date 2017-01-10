@@ -1,6 +1,6 @@
 ## Fantastic Web
 
-All the [links](https://github.com/Marc0Costa/ProjX/edit/master/README.md) you need to edit Markdown files.
+All the [links](./AnotherPage.html) you need to edit Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](./AnotherPage.html/) to rebuild the pages in your site, from the content in your Markdown files.
 
